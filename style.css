@@ -1,0 +1,486 @@
+#banner{
+	width:1200px;
+	height:130px;
+	background-color:black;
+	margin:0 auto;
+	float:left;
+}
+
+
+#menü{
+	width:1200px;
+	height:60px;
+	background-color:#000080;
+	display:inline;
+	float:left;
+}
+li{
+display:inline;
+color:#fff;
+font-size:30px;
+padding-left:9px;
+margin-left:8px;
+margin-top:5px;
+}
+ul{
+padding-top:0px;
+}
+li:hover { 
+color:black;
+text-decoration:underline;
+}	
+#PCP{
+	font-size:65px;
+	color:darkblue;
+	float:left;
+	margin-left:40px;
+	margin-top:25px;
+}	
+
+#sepet{
+	width:30px;
+	height:30px;
+	font-size:20px;
+	position:absolute;
+	top:25px;
+	color:blue;
+	left:790px;
+	padding-top:2px;
+}
+#sepet:hover{
+	color:white;
+	text-decoration:underline;
+}
+#sepetfoto{
+	width:30px;
+	height:30px;
+	position:absolute;
+	top:23px;
+	left:860px;
+	
+	
+}
+#siparis{
+	width:30px;
+	height:30px;
+	font-size:20px;
+	color:blue;
+	position:absolute;
+	top:23px;
+	left:960px;
+	padding-top:5px;
+}
+#siparis:hover{
+	color:white;
+	text-decoration:underline;
+}
+
+#siparisfoto{
+	width:30px;
+	height:30px;
+	position:absolute;
+	top:25px;
+	left:1080px;
+	
+}
+#arama{
+	width:80px;
+	height:15px;
+	font-size:20px;
+	position:absolute;
+	left:670px;
+	top:92px;
+	
+	
+}
+#arama:hover{
+	color:white;
+	text-decoration:underline;
+}
+#aramafoto{
+	width:30px;
+	height:30px;
+	position:absolute;
+	left:750px;
+	top:87px;
+}
+#hesabim{
+	width:30px;
+	height:30px;
+	font-size:20px;
+	position:absolute;
+	color:blue;
+	left:830px;
+	top:90px;
+
+}
+#hesabim:hover{
+	color:white;
+	text-decoration:underline;
+}
+#hesabimfoto{
+	width:30px;
+	height:30px;
+	position:absolute;
+	left:905px;
+	top:88px;
+}
+#stok{
+	width:30px;
+	height:30px;
+	font-size:20px;
+	color:blue;
+	position:absolute;
+	left:985px;
+	top:92px;
+}
+#stok:hover{
+	color:white;
+	text-decoration:underline;
+}
+#stokfoto{
+	width:30px;
+	height:30px;
+	position:absolute;
+	left:1116px;
+	top:89px;
+}
+#üsticerik{
+	width:1200px;
+	height:700px;
+	background-color:white;
+	
+	
+}
+
+#arkaplan{
+	width:1200px;
+	height:510px;
+	position:relative;
+}
+
+#sagicerik{
+	width:600px;
+	height:400px;
+	float:left;
+	background-color:white;
+	position:relative;
+	
+}
+#arkaplan1{
+	width:600px;
+	height:400px;
+}
+
+#solicerik{
+	width:600px;
+	height:400px;
+	float:left;
+	background-color:purple;
+	background-image:images/slide1.jpg;
+	
+}
+#arkaplan2{
+	width:600px;
+	height:400px;
+}
+
+#footer{
+	width:1200px;
+	height:100px;
+	background-color:black;
+	float:left;
+}
+#kurumsal{
+	font-size:20px;
+	color:white;
+	position:absolute;
+	left:70px;
+	margin-top:5px;
+}
+#kurumsal:hover{
+	color:orange;
+}
+#hakkimizda{
+	font-size:15px;
+	color:white;
+	position:absolute;
+	margin-top:40px;
+	left:25px;
+}
+#hakkimizda:hover{
+	color:orange;
+}
+#gizlilik{
+	font-size:15px;
+	color:white;
+	position:absolute;
+	margin-top:60px;
+	left:25px;
+}
+#gizlilik:hover{
+	color:orange;
+}
+#iletisim{
+	font-size:15px;
+	color:white;
+	position:absolute;
+	margin-top:80px;
+	left:25px;
+}
+#iletisim:hover{
+	color:orange;
+}
+#yardim{
+	font-size:15px;
+	color:white;
+	position:absolute;
+	left:180px;
+	margin-top:40px;
+}
+#yardim:hover{
+	color:orange;
+}
+#bilgi{
+	font-size:20px;
+	color:white;
+	position:absolute;
+	left:360px;
+	margin-top:5px;
+}
+#bilgi:hover{
+	color:orange;
+}
+	
+#garanti{
+	font-size:15px;
+	color:white;
+	position:absolute;
+	left:360px;
+	margin-top:40px;
+}
+#garanti:hover{
+	color:orange;
+}
+#teslimat{
+	font-size:15px;
+	color:white;
+	position:absolute;
+	left:360px;
+	margin-top:70px;
+}
+#teslimat:hover{
+	color:orange;
+}
+#güvenli{
+	font-size:20px;
+	color:white;
+	position:absolute;
+	left:600px;
+	margin-top:5px;
+}
+#güvenli:hover{
+	color:orange;
+}
+#güvenlialis{
+	width:400px;
+	height:60px;
+	position:absolute;
+	left:500px;
+	margin-top:30px;
+}
+#takip{
+	font-size:20px;
+	color:white;
+	position:absolute;
+	left:990px;
+	margin-top:5px;
+}
+#takip:hover{
+	color:orange;
+}
+#facebook{
+	width:45px;
+	height:45px;
+	position:absolute;
+	left:940px;
+	margin-top:35px;
+}
+#twitter{
+	width:33px;
+	height:33px;
+	position:absolute;
+	left:1035px;
+	margin-top:40px;
+}
+#instagram{
+	width:38px;
+	height:38px;
+	position:absolute;
+	left:1120px;
+	margin-top:38px;
+}
+#logo01{
+	width:120px;
+	height:120px;
+	position:absolute;
+	left:250px;
+	margin-top:5px;
+}
+#logocep{
+	width:120px;
+	height:120px;
+	position:absolute;
+	left:400px;
+	margin-top:10px;
+}
+#encok{
+	color:white;
+	font-size:30px;
+	position:absolute;
+	top:-22px;
+	left:185px;
+	color:white;
+}
+#encok:hover{
+	color:blue;
+	text-decoration:underline;
+}
+#kampanya{
+	color:white;
+	font-size:30px;
+	position:absolute;
+	top:-27px;
+	left:820px;
+}
+#kampanya:hover{
+	color:blue;
+	text-decoration:underline;
+}
+#yeni{
+	color:white;
+	font-size:40px;
+	position:absolute;
+	top:-540px;
+	left:440px;
+	float:left;
+
+}
+#yeni:hover{
+	color:blue;
+	text-decoration:underline;
+}
+#rang{
+	font-size:55px;
+	color:white;
+	position:absolute;
+	top:-365px;
+	left:1183px;
+}
+#rang:hover{
+	color:blue;
+}
+#rang1{
+	font-size:40px;
+	color:white;
+	position:absolute;
+	top:120px;
+	left:1185px;
+}
+#rang1:hover{
+	color:blue;
+}
+#rang2{
+	font-size:40px;
+	color:white;
+	position:absolute;
+	top:120px;
+	left:585px;
+	
+}
+#rang2:hover{
+	color:blue;
+}
+#lang{
+	font-size:55px;
+	color:white;
+	position:absolute;
+	top:-365px;
+}
+#lang:hover{
+	color:blue;
+}
+
+#lang1{
+	font-size:40px;
+	color:white;
+	position:absolute;
+	top:120px;
+	left:600px;
+}
+#lang1:hover{
+	color:blue;
+}
+#lang2{
+	font-size:40px;
+	color:white;
+	position:absolute;
+	top:120px;
+}
+#lang2:hover{
+	color:blue;
+}
+#özellik{
+	font-size:20px;
+	color:red;
+	position:absolute;
+	top:85px;
+	left:35px;
+}
+#fiyat{
+	font-size:20px;
+	color:red;
+	position:absolute;
+	top:180px;
+	left:430px;
+	
+}
+#fiyat:hover{
+	color:white;
+}
+#fiyat1{
+	font-size:20px;
+	color:black;
+	position:absolute;
+	top:280px;
+	left:700px;
+
+}
+#fiyat1:hover{
+	color:white;
+}
+#fiyat2{
+	font-size:25px;
+	color:white;
+	position:absolute;
+	top:-300px;
+	left:150px;
+}
+#fiyat2:hover{
+	color:blue;
+}
+#özellik1{
+	font-size:30px;
+	color:green;
+	position:absolute;
+	top:5px;
+	left:1010px;
+}
+#özellik2{
+	font-size:30px;
+	color:orange;
+	position:absolute;
+	top:-500px;
+	left:980px;
+}
+	
